@@ -1,6 +1,13 @@
 {
   "name": "@pruvious-tutorial/03-header-and-footer",
   "private": true,
+  "description": "A minimalistic portfolio template made with Nuxt & Pruvious.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruvious-tutorial/03-header-and-footer.git"
+  },
+  "author": "Muris Ceman <hello@pruvious.com>",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
